@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "acc": "1234",
+      "name": "raj",
+      "email": "raj",
+      "password": "raj123",
+      "balance": 5000
+    },
+
+    {
+      "acc": "5678",
+      "name": "tina",
+      "email": "tina",
+      "password": "tina123",
+      "balance": 5000
+    }
+  ],
+
+  "bankers": [
+    {
+      "name": "tejas",
+      "email": "tejas",
+      "password": "tejas123",
+      "role": "manager"
+    },
+    {
+      "name": "jay",
+      "email": "jay",
+      "password": "jay123",
+      "role": "cashier"
+    }
+  ]
+}
